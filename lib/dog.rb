@@ -1,4 +1,5 @@
 class Dog 
   def name=(dog_name)
-doggo = 
+    doggo = dog_name 
+end
   

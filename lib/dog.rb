@@ -8,9 +8,9 @@ def name
   end
 end
 
-def bark
+dog_name.bark
   puts "woof!"
-end
+
 
 
 

@@ -8,5 +8,8 @@ def name
   end
 end
 
+tato = Dog.new 
+tato.bark
+
 
   

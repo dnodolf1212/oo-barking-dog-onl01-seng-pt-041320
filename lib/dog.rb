@@ -9,7 +9,9 @@ def name
 end
 
 tato = Dog.new 
+tato.name = "Tato"
 tato.bark
+  "woof!"
 
 
   

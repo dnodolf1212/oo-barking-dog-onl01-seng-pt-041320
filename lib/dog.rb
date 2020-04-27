@@ -8,10 +8,10 @@ def name
   end
 end
 
-tato = Dog.new 
-tato.name = "Tato"
-tato.bark
-  "woof!"
+def bark
+  puts "woof!"
+end
+end
 
 
   
